@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(201, 211, 255);
+    font-family:cursive;
+    margin: 20px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+    background-color: rgb(221, 204, 248);
+}
+th {
+    background-color: #7d7feb;
+}
